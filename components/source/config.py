@@ -1,6 +1,7 @@
 class Config:
     def __init__(self):
         self.webhook = 'WEBHOOK_URL'
+        self.dhook = 'dhook'
 
         self.debug_mode = True
 
